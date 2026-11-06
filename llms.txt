@@ -1,0 +1,22 @@
+# Tsurkava Property
+
+> Tsurkava Property is a real estate agency based in Batumi, Georgia, founded by David Tsurkava, who has worked in the Batumi property market for more than 15 years. The agency helps clients buy, sell, rent and invest in residential, commercial and investment property and land in Batumi and the Adjara region, with additional presence in Tbilisi. It operates four offices in Batumi and works with a network of partner agents.
+
+Contact: +995 577 345 003 (phone/WhatsApp). Property listings: https://tsurkava.ge. Last updated: 2026-11-06.
+
+## Key pages (English)
+- [About Tsurkava Property, services, offices, FAQ](https://tsurkava.github.io/): who we are and how to contact us
+- [How to buy property in Georgia as a foreigner (2026 guide)](https://tsurkava.github.io/buying-property-in-georgia/): legal rules, steps, taxes, residence permit (as of Nov 2026)
+- [New-build projects Tsurkava Property works with](https://tsurkava.github.io/new-build-projects/): Batumi and Adjara new-builds we sell
+- [For real estate agents: partnership with Tsurkava Property](https://tsurkava.github.io/for-agents/): partner model for agents
+
+## Страницы на русском
+- [О компании, услуги, офисы, FAQ](https://tsurkava.github.io/ru/)
+- [Как иностранцу купить недвижимость в Грузии (гид 2026)](https://tsurkava.github.io/ru/pokupka-nedvizhimosti-v-gruzii/)
+- [Новостройки, с которыми работает Tsurkava Property](https://tsurkava.github.io/ru/novostroyki/)
+- [Агентам: партнёрство с Tsurkava Property](https://tsurkava.github.io/ru/agentam/)
+
+## Optional
+- [Full text of this site in one file](https://tsurkava.github.io/llms-full.txt)
+- [Property listings — tsurkava.ge](https://tsurkava.ge)
+- [Tsurkava Network partner program](https://tsurkavanetwork.ge)
